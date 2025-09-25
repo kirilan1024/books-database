@@ -1,7 +1,9 @@
 
-![GitHub repo](https://img.shields.io/github/repo-size/kirilan1024/books-database?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/kirilan1024/books-database?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/kirilan1024/books-database?style=flat-square)
+
+
+![GitHub Repo Size](https://img.shields.io/github/repo-size/kirilan1024/books-database)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/kirilan1024/books-database)
+![GitHub License](https://img.shields.io/github/license/kirilan1024/books-database)
 
 # Programming Books Database
 ## Screenshot
