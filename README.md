@@ -1,6 +1,7 @@
 
 
 
+
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/kirilan1024/books-database)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/kirilan1024/books-database)
 ![GitHub License](https://img.shields.io/github/license/kirilan1024/books-database)
@@ -70,8 +71,26 @@ books-database/
 - To seed with your own books, edit the `seedInitialData()` function in `backend/server.js`.
 - To change categories, update the frontend checkboxes and backend data accordingly.
 
+
 ## License
 MIT
+
+## Components & Dependencies
+
+| Component      | Version      | Copyright / Author         | License   | Source URL |
+|----------------|--------------|----------------------------|-----------|------------|
+| Node.js        | (your local, e.g. 18.x) | Node.js contributors | MIT       | https://nodejs.org/ |
+| Express        | ^4.18.2      | TJ Holowaychuk, Express contributors | MIT | https://expressjs.com/ |
+| cors           | ^2.8.5       | Troy Goode                | MIT       | https://github.com/expressjs/cors |
+| body-parser    | ^1.20.2      | TJ Holowaychuk, Douglas Christopher Wilson | MIT | https://github.com/expressjs/body-parser |
+| shields.io     | N/A (web API)| Shields.io contributors   | CC0-1.0   | https://shields.io/ |
+| Vanilla JS     | ES6+         | ECMAScript authors        | (Spec)    | https://developer.mozilla.org/en-US/docs/Web/JavaScript |
+| HTML5/CSS3     | N/A          | W3C                       | (Spec)    | https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5 |
+| GitHub Copilot | N/A          | GitHub                    | Proprietary | https://github.com/features/copilot |
+| MIT License    | N/A          | Open Source Initiative    | MIT       | https://opensource.org/licenses/MIT |
+
+**License Compatibility:**  
+All runtime dependencies are MIT or more permissive (CC0), so you can safely license your project as MIT. There are no copyleft or restrictive licenses in your stack. GitHub Copilot is not a runtime dependency and does not affect your project’s license.
 
 ---
 
