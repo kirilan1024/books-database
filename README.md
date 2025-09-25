@@ -75,4 +75,4 @@ MIT
 
 ---
 
-Made with ❤️ by [kirilan1024](https://github.com/kirilan1024)
+Made with ❤️ by [kirilan1024](https://github.com/kirilan1024) and GitHub Copilot
