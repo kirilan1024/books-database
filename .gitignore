@@ -1,0 +1,35 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# VS Code settings
+.vscode/
+
+# Node modules
+backend/node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# npm debug files
+npm-debug.log*
+
+# OS generated files
+.DS_Store?
+.Spotlight-V100
+.Trashes
+
+# Others
+*.swp
+*.swo
