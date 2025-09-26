@@ -2,6 +2,8 @@
 
 
 
+
+![CI](https://github.com/kirilan1024/books-database/actions/workflows/ci.yml/badge.svg)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/kirilan1024/books-database)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/kirilan1024/books-database)
 ![GitHub License](https://img.shields.io/github/license/kirilan1024/books-database)
